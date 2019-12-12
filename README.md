@@ -1,5 +1,6 @@
-# simulate-phenotype-for-1kg
-This repository simulate fake phenotype data for 1000G data using hail.
+# toy-example-of-hail-using-1kg
+This repository simulate fake phenotypes data for 1000G data using hail.
+And built upon these fake phenotypes, there are analysis vignette for various analysis.
 The result is mainly for test purpose.
 
 # data
