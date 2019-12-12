@@ -1,3 +1,11 @@
+# for hail
+*.crc
+*.mt
+*.ht
+*.bgz
+*.txt
+*.tsv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
